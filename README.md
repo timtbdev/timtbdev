@@ -1,4 +1,4 @@
-### Oh Hello there 👋
+### Oh Hello there,
 
 My name is Tumur(Tim), and I am an Android developer. I love Kotlin and Android Jetpack components and published three apps on the Google Play store. I'm originally from Mongolia and studied computer science at the University of Mittwieda in Germany.Last three years, I have been working on personal projects to help people to learn about science and technology in fun and engaging ways. I also run a weekly newsletter and helping people to become an Android developer. In my spare time, I love playing soccer, running in the park, and cooking Asian foods.I am currently in Hayward, CA. However, I love to travel to meet people and learn about new cultures. 
 
