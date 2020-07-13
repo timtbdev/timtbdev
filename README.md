@@ -9,4 +9,4 @@ In my spare time, I love playing soccer, running in the park, and cooking Asian 
 - <a href="https://twitter.com/timtbdev">Twitter</a>
 - <a href="https://www.linkedin.com/in/timtb/">LinkedIn</a>
 - <a href="mailto:timtb.dev@gmail.com">Email</a>
-- <a href="https://www.timtb.dev">Website</a>
+- <a href="https://www.timtb.dev">Resume</a>
