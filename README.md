@@ -6,7 +6,8 @@ Last three years, I have been working on personal projects to help people to lea
 In my spare time, I love playing soccer, running in the park, and cooking Asian foods.I am currently in Hayward, CA. However, I love to travel to meet people and learn about new cultures. 
 
 ## Please don't hesitate to reach me out:
-- <a href="https://medium.com/@timtb">Medium (blog posts)</a>
-- <a href="https://www.linkedin.com/in/timtb/">LinkedIn (for recruiters)</a>
-- <a href="mailto:timtb.dev@gmail.com">Email (for recruiters)</a>
-- <a href="https://drive.google.com/file/d/1E6hDBE6D61iNlQal8XGj62iqCvk8AHD0/view?usp=sharing" target="_blank">Resume (for recruiters)</a>
+- <a href="https://medium.com/@timtb">Blog</a>
+- <a href="https://www.linkedin.com/in/timtb/">LinkedIn</a>
+- <a href="https://drive.google.com/file/d/1E6hDBE6D61iNlQal8XGj62iqCvk8AHD0/view?usp=sharing" target="_blank">Resume</a>
+- <a href="mailto:timtb.dev@gmail.com">Email</a>
+
